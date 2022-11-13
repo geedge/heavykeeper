@@ -21,51 +21,51 @@ filetree
 
 HeavyKeeper
  
-  ├── CMakeLists
+    ├── CMakeLists
     
-  ├──cmsketch.cpp
+    ├──cmsketch.cpp
     
-  ├──CSS.cpp
+    ├──CSS.cpp
     
-  ├──heavykeeper.cpp
+    ├──heavykeeper.cpp
    
-  ├──LossyCounting.cpp
+    ├──LossyCounting.cpp
       
-  ├──spacesaving.cpp
+    ├──spacesaving.cpp
 
 include
 
-  ├──cmsketch.h
+    ├──cmsketch.h
     
-  ├──CSS.h
+    ├──CSS.h
+      
+    ├──heavykeeper.h
     
-  ├──heavykeeper.h
-    
-  ├──LossyCounting.h
+    ├──LossyCounting.h
    
-  ├──spacesaving.h
+    ├──spacesaving.h
 
 init
    
-  ├──BOBHash32.cpp
+    ├──BOBHash32.cpp
    
-  ├──BOBHash32.h
+    ├──BOBHash32.h
    
-  ├──BOBHash64.cpp
+    ├──BOBHash64.cpp
 
-  ├──BOBHash64.h
+    ├──BOBHash64.h
    
-  ├──params.h
+    ├──params.h
    
-  ├──ssummary.cpp
+    ├──ssummary.cpp
 
-  ├──ssummary.h
+    ├──ssummary.h
 
 dataset
     
-  ├──2016.dat
+    ├──2016.dat
    
-  ├──2018.dat
+    ├──2018.dat
 
 ├──main.cpp
 
