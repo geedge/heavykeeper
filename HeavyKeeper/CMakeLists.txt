@@ -1,0 +1,5 @@
+add_executable(cmsketch cmsketch.cpp)
+add_executable(CSS CSS.cpp)
+add_executable(heavykeeper heavykeeper.cpp)
+add_executable(LossyCounting LossyCounting.cpp)
+add_executable(spacesaving spacesaving.cpp)
