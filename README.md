@@ -14,34 +14,61 @@ git clone https://git.mesalab.cn/zhangzhihao/heavykeeper.git
 
 
 **文件目录说明**
+
 HeavyKeeper中存放算法实现，include中存放算法声明，init中属于工具库。
+
 filetree
+
 - HeavyKeeper
+    
     CMakeLists
+    
     cmsketch.cpp
+    
     CSS.cpp
+    
     heavykeeper.cpp
+   
     LossyCounting.cpp
-    spacesaving.cpp
+   
+   spacesaving.cpp
+
 - include
+    
     cmsketch.h
+    
     CSS.h
+    
     heavykeeper.h
+    
     LossyCounting.h
+   
     spacesaving.h
+
 - init
+   
     BOBHash32.cpp
+   
     BOBHash32.h
+   
     BOBHash64.cpp
+   
     BOBHash64.h
+   
     params.h
+   
     ssummary.cpp
     ssummary.h
+
 - dataset
+    
     2016.dat
+   
     2018.dat
+
 - main.cpp
-CMakeLists.txt
+
+- CMakeLists.txt
 
 
 **部署**
