@@ -16,22 +16,7 @@ git clone https://git.mesalab.cn/zhangzhihao/heavykeeper.git
 **文件目录说明**
 
 filetree
-- Compare
-    - CSS.h
-    - LossyCounting.h
-    - cmsketch.h
-    - heavykeeper.h   
-    - spacesaving.h
-- dataset
-    - 2016.dat
-    - 2018.dat
-- BOBHash32.h
-- BOBHash64.h
-- CMakeList.txt
-- main3.cpp
-- params.h
-- ssummary.h
-- LICENSE.txt
+
 
 **部署**
 
