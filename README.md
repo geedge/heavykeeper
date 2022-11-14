@@ -15,7 +15,7 @@ git clone https://git.mesalab.cn/zhangzhihao/heavykeeper.git
 
 **文件目录说明**
 
-HeavyKeeper中存放算法实现，include中存放算法声明，init中属于工具库。
+HeavyKeeper中存放算法实现，include中存放算法声明，tools中属于工具库。
 
 filetree
 
